@@ -3,7 +3,7 @@ name = "poetry-dummy"
 version = "0.1.0"
 description = ""
 authors = ["Jade Mackay <jademackay@gmail.com>"]
-packages = [{include = "poetry-dummy"}] 
+# packages = [{include = "poetry-dummy"}] 
 
 [tool.poetry.dependencies]
 python = "^3.10"
